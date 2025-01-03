@@ -1,0 +1,80 @@
+# Roterista
+
+[](https://chat.openai.com/)
+
+# Nome do podcast
+
+---
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em captura de dados via webcraping no Selenium VBA e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast, com trocadilhos surpreendentes no nome.
+
+O podcast vai falar sobre dicas e desafios sobre o mundo dos automações que buscam a captura de dados utilizando Selenium VBA
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho curioso
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não utilize a palavra raspagem de dados no nome nem qualquer variação dela
+
+RESPOSTA:
+Código Capturado
+Subtítulo: Desvendando os segredos da automação com Selenium VBA
+
+VBA em Ação
+Subtítulo: Dicas e truques para dominar o Selenium na captura de dados
+
+Click no Script
+Subtítulo: Desafios e soluções para automações de dados com VBA e Selenium
+
+No Rastro do Código
+Subtítulo: Explorando o mundo das automações com Selenium VBA
+
+Selenium em Foco
+Subtítulo: O poder da automação na captura de dados com VBA
+
+
+# Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, de tecnologia, focado em captura de dados via webcraping no Selenium VBA, cujo o nome é "Click no Script: Desafios e soluções para automações de dados com VBA e Selenium", com o público alvo de iniciantes no assunto
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Manual do Mundo'.
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade do Selenium VBA
+- no bloco [CURIOSIDADE 2] as principais funcionalidades e métodos de automaçãoes do Selenium 
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Islander e esse foi o Click no Script dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Islander
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+
+**[INTRODUÇÃO]**
+
+Você já imaginou poder abrir um site, coletar informações automaticamente e ainda salvar tudo isso no seu computador, sem fazer nenhum clique? Parece mágica, mas é pura automação! Eu sou Islander e neste episódio do **Click no Script**, vamos explorar como o Selenium VBA pode transformar seu jeito de interagir com a web, e como você pode começar a usar essas ferramentas poderosas para automatizar processos e capturar dados. Fica com a gente!
+
+**[CURIOSIDADE 1]**
+
+Você sabia que o Selenium VBA permite controlar um navegador diretamente a partir de uma planilha do Excel? Isso mesmo! Com um simples código, você pode abrir páginas, clicar em botões, preencher formulários e até extrair dados – tudo dentro do seu Excel! Parece simples, mas acredite, é uma ferramenta super poderosa. E o melhor é que você pode fazer isso de forma totalmente automática, o que economiza muito tempo e trabalho manual. Então, ao invés de copiar e colar tudo no seu navegador, você pode deixar o Selenium fazer o trabalho sujo para você!
+
+**[CURIOSIDADE 2]**
+
+Falando em automação, uma das funcionalidades mais legais do Selenium é o comando **“FindElement”**. Ele permite que você localize e interaja com qualquer elemento dentro de uma página, seja um botão, uma caixa de texto ou até mesmo um link. Mas o mais interessante é que você não precisa se preocupar com os detalhes do site. O Selenium encontra o elemento com base em características únicas, como o ID ou o nome dele! E tem mais: você pode usar o comando **“SendKeys”** para digitar textos nas caixas de pesquisa, ou **“Click”** para clicar em botões. São métodos super úteis para interagir com páginas sem precisar tocar no mouse.
+
+**[FINALIZAÇÃO]**
+
+E assim terminamos mais um episódio do **Click no Script**! Espero que tenha gostado de aprender um pouco mais sobre automações e como o Selenium VBA pode simplificar sua vida. Agora, fica tranquilo, você já tem o básico para começar a brincar com essa ferramenta poderosa. Eu sou Islander e esse foi o **Click no Script** dessa semana. Até a próxima, e não se esqueça de clicar no script!
